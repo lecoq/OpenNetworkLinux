@@ -36,6 +36,6 @@ K_COPY_DST := kernel-3.2-deb7-arm-iproc-all.bin.gz
 endif
 
 export ARCH=arm
-DTS_LIST := accton_as4610_54
+DTS_LIST := accton_as4610_30
 
 include $(ONL)/make/kbuild.mk

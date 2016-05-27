@@ -26,7 +26,7 @@ Accton/Edge-Core
      <th> Device                  <th> Ports            <th> CPU                 <th> Forwarding             		<th> ONL Certified        <th> In Lab <th> ORC <th> OF-DPA <th> OpenNSL <th> SAI </tr> 
 </thead>
 <tr> <td> Accton AS4600-54T       <td> 48x1G  + 4x10G   <td> FreeScale P2020       <td> Broadcom BCM56540 (Apollo2)       <td> Yes  <td> Yes <td> Yes <td> Yes*** <td> Yes*** <td> No </tr>
-<tr> <td> Accton AS4610-54P       <td> 48x1G + 4x10G + 2x20G <td>  Dual-core ARM Cortex A9 1GHz <td> Broadcom BCM56340 (Helix4) <td> Yes <td> Yes <td> No <td> No <td> No <td> No </tr>
+<tr> <td> Accton AS4610-30P       <td> 24x1G  + 4x10G + 2x20G <td>  Dual-core ARM Cortex A9 1GHz <td> Broadcom BCM56340 (Helix4) <td> Yes <td> Yes <td> No <td> No <td> No <td> No </tr>
 <tr> <td> Accton AS5600-52X       <td> 48x10G  + 4x40G   <td> FreeScale P2020       <td> Broadcom BCM56846 (Trident+)      <td> Yes <td> Yes <td> Yes <td> No <td> No <td> No </tr>
 <tr> <td> Accton AS5610-52X       <td> 48x10G  + 4x40G   <td> FreeScale P2020       <td> Broadcom BCM56846 (Trident+)      <td> Yes <td> Yes <td> Yes <td> No <td> No <td> No </tr>
 <tr> <td> Accton AS5710-54X       <td> 48x10G + 6x40G   <td> FreeScale P2041       <td> Broadcom BCM56854 (Trident2)      <td> Yes  <td> Yes <td> Yes <td> Yes*** <td> Yes*** <td> No </tr>
